@@ -1,5 +1,7 @@
 # YouTube Clone
 
+![thumbnail]([https://github.com/user-attachments/assets/2bc060e5-5662-4763-9690-756cdff57616](https://img.youtube.com/vi/ArmPzvHTcfQ/maxresdefault.jpg))
+
 A modern YouTube clone built with Next.js, Drizzle ORM, and modern UI libraries, featuring advanced video processing, real-time transcription, and a responsive design.
 
 ## Key Features
